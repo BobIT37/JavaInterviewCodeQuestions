@@ -27,7 +27,6 @@ public class Math_01_Math {
 		System.out.println(intResult);
 		
 		//How to get square root and cube root using Math class in Java?
-		
 		//Returns the square root of x
 		System.out.println(Math.sqrt(4));
 		
