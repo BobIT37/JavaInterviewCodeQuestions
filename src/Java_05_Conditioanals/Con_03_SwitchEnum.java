@@ -4,7 +4,6 @@ public class Con_03_SwitchEnum {
 	
 	enum Option { 
 		
-		
 		BLUE_PILL,
 		RED_PILL
 		

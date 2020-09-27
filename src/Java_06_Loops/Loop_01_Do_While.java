@@ -13,8 +13,9 @@ public class Loop_01_Do_While {
 		int i = 0; 
 		
 		do {
-		   i++;
+			//i++;
 		   System.out.println(i);
+		   i++;
 		
 	   } 
 		

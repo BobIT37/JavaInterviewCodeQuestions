@@ -1,7 +1,5 @@
 package Java_07_Strings;
 
-
-
 public class Str_16_UpperLower {
 
 	public static void main(String[] args) {

@@ -4,7 +4,7 @@ public class Con_07_IfElse {
 
 	public static void main(String[] args) {
 		
-		int i=0;
+		int i=6;
 		
 		if (i < 2) {
 		  System.out.println("i is less than 2");
