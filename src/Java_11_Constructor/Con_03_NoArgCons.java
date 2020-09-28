@@ -4,7 +4,7 @@ public class Con_03_NoArgCons {
 	
 	public Con_03_NoArgCons(){
 		
-        System.out.println("This is a no argument constructor");
+		System.out.println("This is a no argument constructor");
     }
 
 	public static void main(String[] args) {

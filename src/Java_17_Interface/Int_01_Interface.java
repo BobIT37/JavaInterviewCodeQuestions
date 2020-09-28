@@ -22,6 +22,7 @@ public interface Int_01_Interface {
 	   public static final int c=10;
 	   final int d=10;
 	   static int e=0;
+	  
 	   
 	   //methods
 	   
@@ -32,6 +33,14 @@ public interface Int_01_Interface {
 	   default void cat() {
 		   
 	   }
+	   
+	   /*
+	    * Java 8 allows the interfaces to have default and static methods. 
+	    * The reason we have default methods in interfaces is to allow the developers 
+	    * to add new methods to the interfaces without affecting 
+	    * the classes that implements these interfaces.
+	    * 
+	    */
 	   
 	   /*
 	    * NO CONSTRUCTOR

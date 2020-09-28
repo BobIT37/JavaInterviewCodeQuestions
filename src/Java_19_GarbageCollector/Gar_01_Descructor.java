@@ -10,6 +10,8 @@ public class Gar_01_Descructor {
 		 * A destructor is called to de-allocate and free memory. 
 		 * The destructor has a finalize() method in java
 		 */
+		
+		System.gc();
 
 	}
 

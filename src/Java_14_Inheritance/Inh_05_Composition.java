@@ -1,6 +1,6 @@
 package Java_14_Inheritance;
 
-public class Inh_05_Compostion {
+public class Inh_05_Composition {
 
 	public static void main(String[] args) {
 		
@@ -11,7 +11,7 @@ public class Inh_05_Compostion {
 		 *  the properties and behavior of the parent object by extending a class.
 
 			In inheritance there is “is-a” relationship, in composition there is “has-a” relationship. 
-			In Inheritance, a class lass can extend only one interface, therefore, you can reuse your code only in one class only
+			In Inheritance, a class can extend only one interface, therefore, you can reuse your code only in one class only
 			We can reuse code in multiple class
 			Inheritance provides its features at compile time
 			Composition is easily achieved at runtime

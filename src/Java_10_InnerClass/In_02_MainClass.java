@@ -1,6 +1,7 @@
 package Java_10_InnerClass;
 
 class OuterClass3 {
+	
 	  int x = 10;
 
 	  class InnerClass {

@@ -8,7 +8,8 @@ public class Inh_04_InhLevels {
 	//It supports following:
 		
 	//Single Inheritance: A superclass B child class
-	//Multilevel; Inheritance: A super class for B, B child class for A and B super class for C, C child class for B
+		
+	//Multilevel Inheritance: A super class for B, B child class for A and B super class for C, C child class for B
 		
 	//Hierarchical Inheritance
 	// A super class for B, C, and D	

@@ -10,7 +10,7 @@ public class Sta_02_StaticBlock {
 	      num = 97;
 	      mystr = "Static keyword in Java";
 	   }
-
+	   
 	public static void main(String[] args) {
 		
 		/*

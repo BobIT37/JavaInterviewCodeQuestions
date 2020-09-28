@@ -3,7 +3,7 @@ package Java_11_Constructor;
 public class Con_04_ParameterizedCons {
 	
 	int empId;  
-	   String empName;  
+	String empName;  
 		    
 	   //parameterized constructor with two parameters
 	   Con_04_ParameterizedCons(int id, String name){  

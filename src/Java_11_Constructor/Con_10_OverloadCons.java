@@ -7,8 +7,8 @@ public class Con_10_OverloadCons {
 	   private int stuAge;
 	   
 	   Con_10_OverloadCons(){
-		   
-	       //Default constructor
+ 
+	       //Default cons
 	       stuID = 100;
 	       stuName = "New Student";
 	       stuAge = 18;
