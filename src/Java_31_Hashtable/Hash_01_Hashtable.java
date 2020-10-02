@@ -7,7 +7,7 @@ public class Hash_01_Hashtable {
 	
 	//HashMap and Hashtable both classes implements java.util.Map interface.
 	
-	// HashMap is non-synchronized. This means if it’s used in multi-thread environment 
+	//HashMap is non-synchronized. This means if it’s used in multi-thread environment 
 	//then more than one thread can access and process the HashMap simultaneously.
 	
 	//Hashtable is synchronized. It ensures that no more than one thread can 

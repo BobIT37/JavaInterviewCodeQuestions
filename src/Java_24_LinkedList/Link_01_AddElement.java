@@ -1,5 +1,6 @@
 package Java_24_LinkedList;
 
+import java.util.Collections;
 import java.util.Iterator;
 import java.util.LinkedList;
 
@@ -15,7 +16,7 @@ public class Link_01_AddElement {
 	     list.add("Steve");
 	     list.add("Carl");
 	     list.add("Raj");
-
+        
 	     //Adding an element to the first position
 	     list.addFirst("Negan");
 

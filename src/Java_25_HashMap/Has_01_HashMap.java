@@ -11,9 +11,10 @@ public class Has_01_HashMap {
 		
 	/*
 	 * HashMap is a Map based collection class that is used for storing Key & value pairs, 
-	 * This class makes no guarantees as to the order of the map. 
+	 * HashMap implementation LinkedHashMap maintains the insertion order 
 	 * It is similar to the Hashtable class except that 
 	 * it is unsynchronized and permits nulls(null values and null key).
+	 * HasTable does not allow null key
 	 * 	
 	 */
 		

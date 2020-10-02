@@ -1,6 +1,7 @@
 package Java_22_Collection;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.Iterator;
 
 public class Col_02_Iterator {
@@ -8,6 +9,8 @@ public class Col_02_Iterator {
 	public static void main(String[] args) {
 		
 		//Hierarchy of Collection
+		
+		
 		
 				ArrayList al = new ArrayList();
 				
